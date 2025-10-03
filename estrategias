@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Guías Fortnite - Estrategias</title>
+  <link rel="stylesheet" href="estilos.css">
+</head>
+<body>
+  <header>Guías Fortnite - Estrategias</header>
+  <nav>
+    <a href="index.html">Inicio</a>
+    <a href="armas.html">Armas</a>
+    <a href="estrategias.html">Estrategias</a>
+  </nav>
+
+  <section>
+    <h2>🎯 Estrategias clave</h2>
+    <div class="card">
+      <h3>Rotación inteligente</h3>
+      <p>No vayas siempre al centro del mapa. Usa bordes y zonas altas para ventaja.</p>
+    </div>
+    <div class="card">
+      <h3>Construcción defensiva</h3>
+      <p>Cuando recibas disparos, construye paredes y rampas para cubrirte antes de disparar.</p>
+    </div>
+  </section>
+
+  <footer>
+    © 2025 - Creado por exe_diegoz | Fortnite Guides
+  </footer>
+</body>
+</html>
